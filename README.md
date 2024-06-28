@@ -4,5 +4,5 @@
 Other projects I am developing include a prototype NLP Model and a d&d discord bot.
 
 - 🧑 Pronouns: He/Him
-- ⚡ Fun Fact: I'm on my University GAA Team
+- ⚡ Fun Fact: I was on my University GAA Team
 - ⚛️ Currently Learning: React JS Development
