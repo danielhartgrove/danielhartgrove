@@ -1,8 +1,7 @@
 ### Hello There, I'm **Daniel Hartgrove**
 
-🔭 I’m currently working on NoteMaker, a site that builds summaries and questions from lecture slides using AI
-Other projects I am developing include a prototype NLP Model and a d&d discord bot.
+🔭 I’m currently working on NoteMaker, a web-app that generates editable and formally structured notes from your lecture slides 
 
 - 🧑 Pronouns: He/Him
-- ⚡ Fun Fact: I was on my University GAA Team
-- ⚛️ Currently Learning: React JS Development
+- ⚡ Fun Fact: I was on my University Gaelic Football Team
+
